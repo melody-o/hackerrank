@@ -40,6 +40,5 @@ function gradingStudents(grades) {
 
 
     }
-        console.log(rounded)
         return rounded
 }
